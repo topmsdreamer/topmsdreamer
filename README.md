@@ -1,54 +1,22 @@
 <div>
     <img align="right" alt="Coding" height="250" width="400" src="https://github.com/topmsdreamer/Portfolio_Images/blob/main/Profile%20image.gif">
 </div>
-
-<!-- <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Welcome+to+my+profile+!;Frontend+|+Node.js;" style="max-width: 100%;">
-</div> -->
-<!-- <br/> -->
 <h1>Senior Full Stack Developer</h1>
-<p>Plus 10 years of experience on frontend development. <br/>Focusing on quality of product and keeping deadline with excellent passion as fire.
-<br/>I 've worked a lot in PWA and Hybrid app development as frontend developer using:<br/>
-
-- Frontend Web development : React.js, Next.js, Vue.js, Nuxt.js
-- Frontend Mobile development: React Native, Flutter
-- UI design libraries: Material-UI, Ant Design, React Bootstrap, BootstrapVue, Quasar, Vuetify
-
-Very good experienced Javascript, Typescript, Node.js developer. <br/>
-Now focusing on frontend of blockchain platform development using React but can support Solidity, Web3.js , Ether.js, Truffle, Rust too.
-I am good at backend also not only frontend.
-
-Prefer challenge jobs that need to learn more knowledge. 
-Will fast learn new technologies and take part in new challenges in short time.
-
-Looking forward hearing from you about new job opportunity.
-Thanks for checking my profile.</p>
-
-<br>
 <table>
-<tr>
-<td>
-Gmail
-</td>
-<td>
-Skype
-</td>
-<td>
-Phone Number
-</td>
-</tr>
-<tr>
-<td>
-    topmsdreamer@gmail.com
-</td>
-<td>
-    live:.cid.c1a4be3c8050e568
-</td>
-<td>
-    +1 412 567 3688
-</td>
-</tr>
+    <tr>
+        <td>Gmail</td>
+        <td>Skype</td>
+        <td>Phone Number</td>
+    </tr>
+    <tr>
+        <td>topmsdreamer@gmail.com</td>
+        <td>live:.cid.c1a4be3c8050e568</td>
+        <td>+1 412 567 3688</td>
+    </tr>
 </table>
+<p>Have over 10 years of experience in website and mobile app development.</p>
+<p>Started game development since 3 years ago.</p>
+<br>
 
 #### Frontend and Backend Development
 - HTML5, CSS3, JavaScript, Typescript, Php, Node.js, Python, Dart, C++
@@ -70,13 +38,6 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB
  - Video conferencing with WebRTC : MediaSoup, OWT,Ant Medis Server,  Open-EasyRTC, openVidu, Janus, OvenMediaEngine
  - Audio/Video Streaming Server or Client/Player Development
  - On Demand Video Streaming of media codecs, formats, transports and container protocols, such as MPEG-2, H.264/AVC, AAC, AC3, MP4, TS, etc
- 
-#### Machine Learning
- - Object classification, detection, tracking, counting with deep learning.
- - Human characteristics recognition(like age, gender, emotion and clothes etc)
- - Clustering Related Problems ( KMeans, DBSCAN, HDBSCAN, Hierarchical Clustering)
- - Data Analysis (Pandas, Numpy, Others)
- - Data Visualisation ( Matplotlib, Seaborn)
   
 #### Blockchain Development
 - Ethereum, Solana, Polygon...
