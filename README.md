@@ -31,7 +31,7 @@
 - DAO, DEX, AMM, Yield Farming, Staking dApps
 - NFT marketplace, NFT minting
 - Trading bot, NFT mint bot, Opensea sniper bot, Opensea offer bot
-<!--
+
 #### Cloud Service Support
 - Amazon Web Services (AWS)
 - Microsoft Azure
@@ -45,8 +45,6 @@
  - Video conferencing with WebRTC : MediaSoup, OWT,Ant Medis Server,  Open-EasyRTC, openVidu, Janus, OvenMediaEngine
  - Audio/Video Streaming Server or Client/Player Development
  - On Demand Video Streaming of media codecs, formats, transports and container protocols, such as MPEG-2, H.264/AVC, AAC, AC3, MP4, TS, etc
-
--->
 
 #### Project Management
 - Jira, Trello, Asana
