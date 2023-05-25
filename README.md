@@ -8,7 +8,7 @@
         <td>Skype</td>
     </tr>
     <tr>
-        <td>topmsdreamer@gmail.com</td>
+        <td>bravemslover@outlook.com</td>
         <td>live:.cid.a7fdea83001e2f36</td>
     </tr>
 </table>
