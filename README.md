@@ -1,6 +1,3 @@
-<div>
-    <img align="right" alt="Coding" height="250" width="400" src="https://github.com/topmsdreamer/Portfolio_Images/blob/main/Profile%20image.gif">
-</div>
 <h1>Senior Full Stack Developer</h1>
 <table>
     <tr>
