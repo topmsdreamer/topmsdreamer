@@ -10,10 +10,10 @@
     </tr>
 </table>
 
-- 🔭 I’m a Senior Full-Stack Software Engineer.
+- 🔭 I’m a senior full stack developer.
+- 👍 I have over 10 years of experience in web and app development.
+- 👯 I’m looking for high skilled developers.
 - 🌱 I’m currently diving into Blockchain.
-- 👯 I’m looking for Web 3.0 Experts.
-- 👍 I have 7+ years of experience with web development.
 
 
 <h3 align="left">My favorite tools and technologies</h3>
