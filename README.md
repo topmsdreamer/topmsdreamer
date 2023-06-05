@@ -17,6 +17,7 @@
     - 👍 I have over 10 years of experience in web and app development.
     - 👯 I’m looking for high skilled developers.
     - 🌱 I’m currently diving into Blockchain.
+    - 📫 Reach me topmsdreamer@gmail.com
 </div>
 
 <div align="center">
