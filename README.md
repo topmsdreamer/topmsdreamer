@@ -16,7 +16,7 @@
     - 🔭 I’m a senior full stack developer.
     - 👍 I have over 10 years of experience in web and app development.
     - 👯 I’m looking for high skilled developers.
-    - 🌱 I’m currently diving into Blockchain.
+    - 🌱 I’m currently diving into Game development.
     - 📫 Reach me topmsdreamer@gmail.com & live:.cid.a7fdea83001e2f36
 </div>
 
