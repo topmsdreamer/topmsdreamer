@@ -81,6 +81,10 @@
           <br>JavaScript
         </td>
         <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="48" height="48" />
+          <br>TypeScript
+        </td>
+        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
           <br>jQuery
         </td>
@@ -93,13 +97,9 @@
           <br>Sass
         </td>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="48" height="48" />
-          <br>TypeScript
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-          <br>PHP
-        </td>
+            <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
+          <br>AWS
+        </td> 
       </tr>
      <tr>
           <td align="center" width="96">
@@ -118,10 +118,14 @@
             <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
           <br>Nodejs
         </td>
-            <td align="center" width="96">
-            <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
-          <br>Postman
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+          <br>PHP
         </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="48" height="48" />
+          <br>RestAPI
+        </td> 
         <td align="center" width="96"> 
             <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
           <br>Git
@@ -130,10 +134,6 @@
             <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
           <br>Github
         </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
-          <br>AWS
-        </td> 
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="48" height="48" />
           <br>GraphQL
