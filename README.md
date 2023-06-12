@@ -13,7 +13,7 @@
         </tr>
     </table> -->
 
-    - 🔭 I’m a senior full stack developer.
+<!--     - 🔭 I’m a senior full stack developer. -->
     - 👍 I have over 10 years of experience in web and app development.
     - 👯 I’m looking for high skilled developers.
     - 🌱 I’m currently diving into Game development.
