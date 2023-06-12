@@ -45,8 +45,8 @@
           <br>NuxtJS
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" height="65" />
-          <br>NextJS
+            <img src="https://skillicons.dev/icons?i=nestjs" alt="icon" width="65" height="65" />
+          <br>NestJS
         </td>
 <!--         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
