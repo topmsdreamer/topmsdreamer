@@ -37,30 +37,32 @@
           <br>Vue
         </td>
         <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" height="65" />
+          <br>NextJS
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=nuxtjs" alt="icon" width="65" height="65" />
+          <br>NuxtJS
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" height="65" />
+          <br>NextJS
+        </td>
+<!--         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
           <br>Webpack
+        </td> -->
+        <td align="center"  width="96">
+            <img src="https://skillicons.dev/icons?i=flutter" width="65" height="65" alt="Laravel" />
+          <br>Flutter
         </td>
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
           <br>Swift
         </td>
         <td align="center" width="96">
-          <a href="#macropower-tech">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-          </a>
-          <br>Python
-        </td>
-        <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
           <br>Django
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-          <br>C++
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-          <br>C#
         </td>
       </tr>
       <tr>
@@ -123,17 +125,31 @@
           <br>PHP
         </td>
         <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
+          </a>
+          <br>Python
+        </td>
+<!--         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="48" height="48" />
           <br>RestAPI
-        </td> 
-        <td align="center" width="96"> 
+        </td>  -->
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="48" height="48" />
+          <br>C++
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="48" height="48" />
+          <br>C#
+        </td>
+<!--         <td align="center" width="96"> 
             <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
           <br>Git
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
           <br>Github
-        </td>
+        </td> -->
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="48" height="48" />
           <br>GraphQL
