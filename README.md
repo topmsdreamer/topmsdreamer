@@ -1,4 +1,4 @@
-<h1 align="center">Senior Full Stack Developer</h1>
+<h1 align="center">Software Developer</h1>
 
 <div>
 <!--     <img align="right" width="40%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /> -->
